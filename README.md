@@ -1,4 +1,4 @@
-# ml-assessment-bushra-anjum
+# ML-assessment-bushra-anjum
 # Machine Learning Assignment 4 (A + B)
 
 # Overview
